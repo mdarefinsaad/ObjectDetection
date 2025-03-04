@@ -14,5 +14,17 @@ The script `main.py` loads a pre-trained YOLOv4-Tiny model and uses it to detect
 - A file containing class names (`classes.txt`)
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.qubrid.com/wp-content/uploads/2024/07/Yolo.png" alt="python" width="40" height="40"/></a></p>
-
+<p align="left">
+    <span>
+        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+    </span>&nbsp;&nbsp;
+    <span>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    </span>&nbsp;&nbsp;
+    <span>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+    </span>&nbsp;&nbsp;
+    <span>
+        <img src="https://www.qubrid.com/wp-content/uploads/2024/07/Yolo.png" alt="python" width="40" height="40"/>
+    </span>
+</p>
